@@ -9,7 +9,7 @@
 
 ### Guincho Hospitalar Autônomo com IA Embarcada
 
-**Projeto Demoday · Instituto PROA 2026 · Suzano, SP**
+**Projeto Demoday · Instituto PROA 2026 · São Paulo, SP**
 
 <br/>
 
@@ -240,7 +240,7 @@ Sprint 4  ░░░░░░░░░░░░░░░░░░░░░░░�
 <br/>
 
 **EVERRISE — Medical Solutions**
-Projeto Demoday · Instituto PROA 2026 · Suzano, SP
+Projeto Demoday · Instituto PROA 2026 · São Paulo, SP
 
 *Desenvolvido com dedicação por uma equipe de 8 estudantes que acreditam que tecnologia pode transformar vidas.*
 
